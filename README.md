@@ -18,7 +18,7 @@
 <p align="left">
 <!---linkedin-->
 <a href="https://linkedin.com/in/alangvazq/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="4" height="30" width="40" /></a>
-<a href="https://kaggle.com/9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="9" height="30" width="40" /></a>
+<a href="https://twitter.com/alangvazq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="9" height="30" width="40" /></a>
 <!---<a href="https://www.hackerrank.com/7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="7" height="30" width="40" /></a>-->
 </p>
 
